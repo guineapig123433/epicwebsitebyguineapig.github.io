@@ -1,0 +1,40 @@
+body
+{
+    background-image: linear-gradient(to right, #30132d, #3d320f);
+    /* hey look at me im coding its not like i had a whole unit in class about this*/
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.title
+{
+    text-align: center;
+    align-self: center;
+    font-size: large;
+    animation: fadein 0.6s ease-in-out forwards;
+    background-color: #070818;
+    border-radius: 40px;
+    width: 600px;
+}
+@keyframes fadein {
+        from {
+            opacity: 0;
+            transform: translateY(30px)
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0)
+        }
+    }
+.about
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    width: fit-content;
+    background-color: #070818;
+    border-radius: 40px;
+    animation: fadein 0.6s ease-in-out forwards;
+}

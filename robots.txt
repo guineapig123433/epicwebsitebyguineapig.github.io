@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://guineapig123433.github.io/epicwebsitebyguineapig.github.io/sitemap.xml

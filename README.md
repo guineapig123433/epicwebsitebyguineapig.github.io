@@ -1,1 +1,3 @@
-A very epic website made by me guinea pig i decided it would be fun and so i dont forget everything i learned on html since i havent used it in a while
+A website made by me guinea pig
+it has so far a title an about me and some of my favorite games along with a few funny things
+there will be more added as i expand on the website

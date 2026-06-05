@@ -77,10 +77,42 @@ body
     flex-direction:row;
     white-space: nowrap;
 }
-img
+.favoriteg img
 {
     padding-left: 30px;
     width: 250px;
     height: 350px;
 }
+.v1 img
+{
+    width: 140px;
 
+}
+.v1
+{
+    position: absolute;
+    width: fit-content;
+    background: none;
+    border: none;
+    animation: fadein 0.6s ease-in-out forwards;
+}
+.angle img
+{
+    width: 140px;
+}
+.angle
+{
+    animation: fadein 0.6s ease-in-out forwards;
+    width: fit-content;
+    background: none;
+    border: none;
+    position: absolute;
+    right: 0;
+}
+.but
+{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    flex-direction: row;
+}

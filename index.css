@@ -116,3 +116,30 @@ body
     z-index: 1000;
     flex-direction: row;
 }
+.current
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    width:auto;
+    background-color: #070818;
+    border-radius: 40px;
+    animation: fadein 0.6s ease-in-out forwards;
+    margin-top: 20px;
+    
+}
+.current img
+{
+    width: 250px;
+    height: 350px;
+}
+.imagetext
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.imagetext p
+{
+    padding-left: 20px;
+}

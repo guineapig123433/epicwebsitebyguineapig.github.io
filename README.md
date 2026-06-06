@@ -5,4 +5,9 @@ I did search on how to do a few things like connecting audio to buttons and read
 <br>
 It is very simple and i will probably be activley updating it
 <br>
-so far i have added a section that has a bit about me and also a section which has links to all my favorite games
+<h2>Things i have added so far</h2>
+<ul>
+  <li>about me</li>
+  <li>favorite games</li>
+  <li>current thing</li>
+</ul>
